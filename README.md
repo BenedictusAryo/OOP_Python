@@ -17,9 +17,13 @@ ___
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BenedictusAryo/OOP_Python/blob/master/2_Attributes%20and%20Methods.ipynb)
 
 ### 3. Abstraction and Encapsulation
-> **Open Attributes and Methods material in Google Colab:** 
+> **Open Abstraction and Encapsulation material in Google Colab:** 
 >
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BenedictusAryo/OOP_Python/blob/master/3_Abstraction%20and%20Encapsulation.ipynb)
 
 ### 4. Inheritance
+> **Open Inheritance material in Google Colab:** 
+>
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BenedictusAryo/OOP_Python/blob/master/4_Inheritance.ipynb)
+
 ### 5. Polymorphism
